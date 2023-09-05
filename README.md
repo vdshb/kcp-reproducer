@@ -1,3 +1,5 @@
+- Compiler-plugin Extension: https://github.com/vdshb/kcp-reproducer/blob/main/plugin/compiler-plugin/src/main/kotlin/com/example/kcp/AllowTestReturnExtension.kt
+- Test: https://github.com/vdshb/kcp-reproducer/blob/main/test/src/commonTest/kotlin/com/example/kcptest/KmpTestPromiseTest.kt
 
 Steps to reproduce:
 
